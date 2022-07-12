@@ -1,8 +1,18 @@
-# Unwindtime
+# Unwind-time - Remove yourself from the keyboard
+The app itself let's you find people that need a break (a unwind) and want to do this with someone else.
 
 
 
+The app that helped me understand some of the uses of firebase. My role was refactoring it to TypeScript, fixing CSS and Bugs and also implementing end-to-end testing.
 
+
+
+## Tech Stack
+### JavaScript, TypeScript, React, Redux, Firebase, Cypress.io
+
+
+
+<img src="https://res.cloudinary.com/brnl/image/upload/v1657621675/brnl/unwind_curxbv.jpg"></img>
 
 # Getting Started with Unwind
 
